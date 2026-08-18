@@ -8,7 +8,7 @@ body {
 background-image: url("landingpage.jpg");
 background-position: center;
 background-repeat: no-repeat;
-background-size: stretch;
+background-size: cover;
 overflow: hidden;
 height: 100%;
 }
@@ -50,7 +50,7 @@ border-color: lightblue;
 color: white;
 overflow-x: scroll;
 white-space: nowrap;
-margin: 100px 575px;
+margin: 100px auto;
 transition: 2s;
 font-family: 'sarpanch', sans-serif;
 }
